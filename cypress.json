@@ -1,0 +1,4 @@
+{
+    "watchForFileChanges": true,
+    "baseUrl": "https://localhost:8080"
+}
